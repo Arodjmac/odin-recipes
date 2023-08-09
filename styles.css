@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(170, 170, 170);
+
+}
+
+button {
+    color: rgb(0, 17, 255);
+    font-size: 26px;
+    padding: 4px 20px;
+    border-radius: 10px;
+    margin: 4px;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.recipe_links  {
+    text-align: center;
+}
+
+.odin {
+    text-align: center;
+}
+
+h1 {
+    border-style: groove double double;
+    text-align: center;
+}
+
+ol {
+    padding: 16px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    max-width: 400px;
+}
+
+h4 {
+    font-style: italic;
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+}
